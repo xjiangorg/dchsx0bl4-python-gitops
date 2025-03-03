@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: dchsx0bl4-python-gitops-repository
+spec:
+  url: https://github.com/xjiangorg/dchsx0bl4-python-gitops
